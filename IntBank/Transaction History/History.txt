@@ -1,0 +1,26 @@
+**************************************************
+Before deposit
+Balance of account number 1234 : 30000.0
+500.0 Deposited successfully
+New balance of account number 1234 : 30500.0
+**************************************************
+**************************************************
+Before withdraw
+Balance of account number 2345 : 50000.0
+500.0 Withdrawn successfully
+New balance of account number 2345 : 49500.0
+**************************************************
+**************************************************
+Before transfering
+Balance of account number 2345 : 49500.0
+Balance of account number 1234 : 30500.0
+300.0 Transfered successfully from account number 2345 to 1234
+New balance of account number 2345 : 49200.0
+New balance of account number 1234 : 30800.0
+**************************************************
+**************************************************
+Before deposit
+Balance of account number 1 : 100.0
+10.0 Deposited successfully
+New balance of account number 1 : 110.0
+**************************************************
